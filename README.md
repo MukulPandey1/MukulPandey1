@@ -8,7 +8,7 @@ I’m interested in building scalable software solutions, crafting modern front-
 
 ## 🛠 Skills & Tools  
 
-- **Languages:** C, c++, JavaScript, PHP, Java 
+- **Languages:** C, C++, JavaScript, PHP, Java 
 - **Frontend:** HTML5, CSS3, React, Bootstrap, Tailwind CSS  
 - **Backend:** Node.js, Express, PHP  
 - **Databases:** MySQL  
